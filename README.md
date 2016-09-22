@@ -3,6 +3,8 @@ cliente de Facebook en JAVA en linea de comando
 
 #Evidencia de Computación en Java
 
+Avance 1.0 
+
 #Universidad Tecmilenio
 
 ##Productividad basada en herramientas tecnológicas.
@@ -11,7 +13,7 @@ cliente de Facebook en JAVA en linea de comando
 
 ##Instalación
 
-* El repositorio donde se encuentra el proyecto puede ser descargado de : _____
+* El repositorio donde se encuentra el proyecto puede ser descargado de : https://github.com/mickeyvalencia/fbcmd4j
 * Se requiere que el Sistema Operativo en donde se instalará cuente con Java 8 o superior. 
 * Se deberá compilar el código desde la linea de comando y posteriormente ejecutar el programa JAVA
 * Más informaci´ón ser´á agregada posteriormente sobre el proceso de instalación.
